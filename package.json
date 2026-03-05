@@ -1,0 +1,27 @@
+{
+    "name": "space-atom-dark",
+    "displayName": "Space Atom Dark",
+    "description": "A vscode color theme in dark mode",
+    "version": "0.0.1",
+    "publisher": "shy1248",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shy1248/spaece-atom-dark"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.105.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space Atom Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spaece-atom-dark-color-theme.json"
+            }
+        ]
+    }
+}
