@@ -236,7 +236,6 @@
             "name": "Comments",
             "scope": "comment, punctuation.definition.comment",
             "settings": {
-                // "foreground": "#7f848e",
                 "foreground": "#0d9e83",
                 "fontStyle": "italic"
             }
