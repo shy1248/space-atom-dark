@@ -127,7 +127,7 @@
         "welcomePage.tileBackground": "#2B2B2B",
         "welcomePage.progress.foreground": "#0078D4",
         "widget.border": "#313131",
-        "terminal.border": "#5d4d7a",
+        "terminal.border": "#2B2B2B",
         "terminal.background": "#181818",
         "terminal.foreground": "#CCCCCC",
         "terminal.ansiBrightBlack": "#26282B",
