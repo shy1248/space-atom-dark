@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/shy1248/spaece-atom-dark"
     },
-    "icon": "icon.png",
+    "icon": "screenshort.png",
     "engines": {
         "vscode": "^1.105.0"
     },
