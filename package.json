@@ -21,11 +21,6 @@
                 "label": "Space Atom Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/spaece-atom-dark-color-theme.json"
-            },
-            {
-                "label": "Space Atom Light",
-                "uiTheme": "vs",
-                "path": "./themes/spaece-atom-light-color-theme.json"
             }
         ]
     }
