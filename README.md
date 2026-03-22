@@ -2,4 +2,4 @@
 
 Atom color theme with Default Dark Modern of vscode.
 
-[](./screenshort.png)
+![Image](images/paste-20260322130928.png)
